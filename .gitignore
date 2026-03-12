@@ -1,0 +1,12 @@
+# Ignore large datasets
+Sales.csv
+Information.csv
+
+# Ignore ChromaDB vector store
+chroma_db/
+models/
+results/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/

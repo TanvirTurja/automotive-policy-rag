@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+torch
+chromadb
+ollama
+jupyter
+
+# Ollama Models:
+# The RAG pipeline relies on a local Ollama instance running the Qwen 3.5 4B model.
+# After installing Ollama, you MUST pull the model manually by running:
+# ollama pull qwen3.5:4b
