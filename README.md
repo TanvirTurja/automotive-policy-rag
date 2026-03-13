@@ -56,4 +56,6 @@ If you use this code or the accompanying paper, please cite:
 ```
 
 ## License
-This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+Code: [MIT License](LICENSE)  
+Paper: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+
